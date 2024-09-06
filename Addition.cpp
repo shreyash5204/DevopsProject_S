@@ -15,9 +15,9 @@ int addTwoNumber(int A, int B)
 int main()
 {
     // Given two number
-    int A = 4, B = 11;
+    int A = 5, B = 10;
 
     // Function call
-    cout << "sum = " << addTwoNumber(A, B);
+    cout << "sum of two number = " << addTwoNumber(A, B);
     return 0;
 }
