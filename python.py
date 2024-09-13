@@ -16,4 +16,16 @@ my_list[0], my_list[-1] = my_list[-1], my_list[0]
 
 # Print the modified list  Done By Tathya
 print("List after swapping first and last elements:", my_list)
+#<<<<<<< ashishbranch
 # this is me ashish  
+=======
+
+
+
+# Odd and Even python program Done by Ayush Dubey
+n1 = 3
+if n1 % 2==0:
+    print("This is Even number")
+else:
+    print("This is Odd number")
+#>>>>>>> main
