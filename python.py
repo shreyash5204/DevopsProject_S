@@ -8,6 +8,21 @@ sum = num1 + num2
 # printing values
 print("Sum of", num1, "and", num2 , "is", sum)
 
+#<<<<<<< collabRigal
+
+
+#Collaborator - Rigal 21BEC037
+#Multiply
+number1 = 20
+number2 = 30
+
+multip = number1 * number2
+
+#print
+print("Product of ", number1, "and ", number2, "is", multip)
+
+#end
+=======
 # Initialize a list Done By Tathya
 my_list = [1, 2, 3, 4, 5]
 
@@ -28,4 +43,5 @@ if n1 % 2==0:
     print("This is Even number")
 else:
     print("This is Odd number")
+#>>>>>>> main
 #>>>>>>> main
